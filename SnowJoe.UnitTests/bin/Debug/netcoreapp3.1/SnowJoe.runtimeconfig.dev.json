@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/KNakra/.dotnet/store/|arch|/|tfm|",
+      "/Users/KNakra/.nuget/packages"
+    ]
+  }
+}
